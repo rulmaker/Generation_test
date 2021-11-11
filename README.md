@@ -1,5 +1,7 @@
 # Generation_test
 
+Estos son los enlaces a los repositorios de los ejercicios de el examen técnico.
+
 Ejercicio 1:
 https://github.com/rulmaker/Generation_Prova1
 
